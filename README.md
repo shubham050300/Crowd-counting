@@ -5,12 +5,11 @@ Datasets:
 - UCF CC 50 Dataset [[Link](http://crcv.ucf.edu/data/ucf-cc-50/)]
 
 ## Useful Links
--[All resources](https://github.com/gjy3035/Awesome-Crowd-Counting)
--[basic blog](https://medium.com/analytics-vidhya/its-a-record-breaking-crowd-d25c0149f7cd)
--[basic model](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
--[different model comparision](https://medium.com/@houdinisparks/comparing-different-crowd-counting-methods-8ef6ac1ebd9e)
--[using density based methods](https://towardsdatascience.com/objects-counting-by-estimating-a-density-map-with-convolutional-neural-networks-c01086f3b3ec)
--
+    -[All resources](https://github.com/gjy3035/Awesome-Crowd-Counting)
+    -[basic blog](https://medium.com/analytics-vidhya/its-a-record-breaking-crowd-d25c0149f7cd)
+    -[basic model](https://www.analyticsvidhya.com/blog/2019/02/building-crowd-counting-model-python/)
+    -[different model comparision](https://medium.com/@houdinisparks/comparing-different-crowd-counting-methods-8ef6ac1ebd9e)
+    -[using density based methods](https://towardsdatascience.com/objects-counting-by-estimating-a-density-map-with-convolutional-neural-networks-c01086f3b3ec)
 
 ## Papers:
 - <a name="MCNN"></a> **[MCNN]** Single-Image Crowd Counting via Multi-Column Convolutional Neural Network (**CVPR2016**) [[paper](https://pdfs.semanticscholar.org/7ca4/bcfb186958bafb1bb9512c40a9c54721c9fc.pdf)] 
